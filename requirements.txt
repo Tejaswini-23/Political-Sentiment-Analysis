@@ -1,0 +1,13 @@
+nltk
+sklearn
+matplotlib
+shapely
+warnings
+datetime
+math
+pandas
+csv
+numpy
+scipy
+geopandas
+geopy
